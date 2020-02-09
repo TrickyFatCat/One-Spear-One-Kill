@@ -1,0 +1,1 @@
+//draw_text(obj_player.x, obj_player.y, instance_number(obj_enemy))

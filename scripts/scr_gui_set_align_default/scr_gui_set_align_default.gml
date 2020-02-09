@@ -1,0 +1,1 @@
+scr_gui_set_align(fa_left, fa_top);

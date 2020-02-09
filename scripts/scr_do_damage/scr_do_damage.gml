@@ -1,0 +1,1 @@
+hp_current = max(hp_current - other.dmg_current, 0);
