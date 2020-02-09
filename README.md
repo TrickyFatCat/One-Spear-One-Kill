@@ -9,8 +9,8 @@ __Good luck and fight with glory!__
 
 # Controls
 - Use WASD for moving;
-
 - Hold LMB for shooting;
+- Press SPACE for jump;
 
 ------------------------------------------
 
